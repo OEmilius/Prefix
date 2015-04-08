@@ -1,0 +1,14 @@
+[2013-09-27 16:37:54] START
+[2013-09-27 16:38:23] EDIT Prefix/controllers/default.py: 118
+[2013-09-27 16:39:15] UPLOAD /home/www-data/web2py/applications/Prefix/static/Kody_DEF-9kh.csv: 4789
+[2013-10-08 12:24:12] DELETE Prefix/static/Kody_DEF-9kh.csv: -4789
+[2013-10-08 12:25:00] UPLOAD /home/www-data/web2py/applications/Prefix/static/Kody_DEF_9kh.csv: 4815
+[2013-10-08 12:26:16] EDIT Prefix/controllers/default.py: 1
+[2013-10-08 12:32:03] EDIT Prefix/controllers/default.py: 0
+[2013-10-08 12:32:48] EDIT Prefix/controllers/default.py: -1
+[2013-10-08 12:34:50] DELETE Prefix/static/Kody_DEF_9kh.csv: -4815
+[2013-10-08 12:35:13] UPLOAD /home/www-data/web2py/applications/Prefix/modules/Kody_DEF-9kh.csv.py: 4815
+[2013-10-08 12:35:18] DELETE Prefix/modules/Kody_DEF-9kh.csv.py: -4815
+[2013-10-08 12:35:32] UPLOAD /home/www-data/web2py/applications/Prefix/static/Kody_DEF-9kh.csv: 4815
+[2013-10-08 16:17:46] EDIT Prefix/controllers/default.py: 0
+[2013-10-08 16:36:46] EDIT Prefix/controllers/default.py: 0
